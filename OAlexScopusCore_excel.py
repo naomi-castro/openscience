@@ -7,9 +7,9 @@ import pandas as pd
 # Configuración de API Keys y parámetros
 # ————————————————
 # API keys and parameters
-SCOPUS_API_KEY    = '1231abd6e353034be1208641dfdcef49'
-CORE_API_KEY      = 'KaqcsEn5CJf891dzr4xMpgFGNyUBk6tO'
-WOS_API_KEY       = '5faa2325e551eaa702aa95e7ef9eb88f03442e26'
+SCOPUS_API_KEY    = ''
+CORE_API_KEY      = ''
+WOS_API_KEY       = ''
 CROSSREF_MAILTO   = 'mary.yein@uv.cl'     # for polite CrossRef requests
 UNPAYWALL_EMAIL   = 'mary.yein@uv.cl'     # required by Unpaywall
 
